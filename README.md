@@ -72,11 +72,10 @@ This is a Windows Forms-based personal organizer application developed in C#. Th
 
 ## Files
 
-- `phonebook.csv`: Stores phonebook contact information.
-- `notes.csv`: Stores notes created by the user.
-- `user.csv`: Stores user information including their role and profile details.
-- `reminders.csv`: Stores reminder data for each user.
-- `salary.csv`: Stores calculated salary information for each user.
+- `contacts.csv`: Stores phonebook contact information.
+- `notebookdata.csv`: Stores notes created by the user.
+- `applicationdatabase.csv`: Stores user information including their role and profile details.
+- `reminder.csv`: Stores reminder data for each user.
 
 ## Setup and Installation
 
